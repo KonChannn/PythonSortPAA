@@ -1,0 +1,5 @@
+Execution Time for 1000 data: 0.000920 seconds
+Execution Time for 2000 data: 0.001276 seconds
+Execution Time for 3000 data: 0.001927 seconds
+Execution Time for 4000 data: 0.002979 seconds
+Execution Time for 5000 data: 0.003923 seconds
